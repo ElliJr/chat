@@ -13,7 +13,7 @@
 
 body {
     background: url("../images/gym.jpg");
-
+    background-attachment: fixed;
     color: #f2f2f2;
 }
 
